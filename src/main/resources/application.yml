@@ -1,5 +1,5 @@
 spring:
   profiles:
-    include: secret
+    include: secret2
     active: dev
 
